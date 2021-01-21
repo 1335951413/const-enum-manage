@@ -1,11 +1,15 @@
-{
+﻿{
   "name": "const-enum-manage",
-  "version": "1.0.0",
-  "description": "a way to manage const-enum",
+  "version": "1.0.3",
+  "description": "前端常量 枚举工具 a way to manage const-enum",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "suwanbin",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1335951413/const-enum-manage"
+  },
+  "author": "suwanbin <1335951413@qq.com>",
+  "license": "MIT"
 }
