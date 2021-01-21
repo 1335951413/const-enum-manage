@@ -1,0 +1,11 @@
+{
+  "name": "const-enum-manage",
+  "version": "1.0.0",
+  "description": "a way to manage const-enum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suwanbin",
+  "license": "ISC"
+}
