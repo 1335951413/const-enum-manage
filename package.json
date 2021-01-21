@@ -1,6 +1,6 @@
 ﻿{
   "name": "const-enum-manage",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "前端常量 枚举工具 a way to manage const-enum",
   "main": "index.js",
   "scripts": {
